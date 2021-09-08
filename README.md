@@ -28,3 +28,9 @@ Reference：
   這是有關select在React裡面的編碼方式:[連結](https://www.notion.so/ZTM-React-f2c6af2211f2402493fe57fc0bbe2882 "title")  
 * There is Link that is about Link to other website in react which I used with my project [Link here](https://stackoverflow.com/posts/47024711/edit "title").  
   這是有關外部連結在react用法:[連結](https://stackoverflow.com/posts/47024711/edit "title")
+
+## finally fundament of HTTP:
+- If you server is http you could request http or https.
+  如果你的伺服器是http你可以訪問 http or https。
+- or you server is https you could only request https. 
+  如果你的伺服器是https 你只能訪問 https。
