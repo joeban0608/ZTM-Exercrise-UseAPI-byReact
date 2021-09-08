@@ -9,7 +9,8 @@ There is some exercise for UseAPI: [NumberAPI](http://numbersapi.com/#random/mat
 ---
 1. I used the pictures to demo my result.
 <img src="https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic1.png" width="500" />
-![image](https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic2.png)
-![image](https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic3.png)
-![image](https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic4.png)
+<img src="https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic2.png" width="500" />
+<img src="https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic3.png" width="500" />
+<img src="https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic4.png" width="500" />
+
 2. you could also clone the file them 
