@@ -8,7 +8,8 @@ There is some exercise for UseAPI: [NumberAPI](http://numbersapi.com/#random/mat
   由於我使用了HTTP安全協定的API，所以github 不讓我訪問網站，導致select無效。
 ---
 1. I used the pictures to demo my result.
-![](https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic1.png | width=100)
+<img src="https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic1.png" width="100" height="100"
+![image]( | width=100)
 ![image](https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic2.png)
 ![image](https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic3.png)
 ![image](https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic4.png)
