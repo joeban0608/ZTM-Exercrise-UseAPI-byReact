@@ -1,5 +1,5 @@
 # ZTM-Exercrise-UseAPI-byReact
-###There is my ZTM-exercise for useing API with react.  
+### There is my ZTM-exercise for useing API with react.  
   這是我的ZTM課程練習，有關在react上串接API。
 Reference：  
 * There is API which I run in exercise: [NumberAPI](http://numbersapi.com/#random/math "title")  
