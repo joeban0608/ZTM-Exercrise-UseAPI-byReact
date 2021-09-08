@@ -7,6 +7,6 @@ There is some exercise for UseAPI: [NumberAPI](http://numbersapi.com/#random/mat
   It let the select button fail.  
   由於我使用了HTTP安全協定的API，所以github 不讓我訪問網站，導致select無效。
 ---
-1. I used the picture to demo my result.
+1. I used the pictures to demo my result.
 
 2. you could also clone the file them 
