@@ -1,6 +1,7 @@
 # ZTM-Exercrise-UseAPI-byReact
-There is some exercise for UseAPI: [NumberAPI](http://numbersapi.com/#random/math "title")  
-這是我的API串接練習：使用[NumberAPI](http://numbersapi.com/#random/math "title")
+Reference：
+! There is some exercise for UseAPI: [NumberAPI](http://numbersapi.com/#random/math "title")  
+! 這是我的API串接練習：使用[NumberAPI](http://numbersapi.com/#random/math "title")
 - There is my website using API with React[Link here](https://joeban0608.github.io/ZTM-Exercrise-UseAPI-byReact/ "title").  
   這是我的成果[連結](https://joeban0608.github.io/ZTM-Exercrise-UseAPI-byReact/ "title")  
 - I couldn't fetch in github because I use the API which was HTTP cryptographic protocol.  
