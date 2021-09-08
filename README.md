@@ -14,7 +14,7 @@ There is some exercise for UseAPI: [NumberAPI](http://numbersapi.com/#random/mat
 <img src="https://github.com/joeban0608/ZTM-Exercrise-UseAPI-byReact/blob/main/pic4.png" width="500" />
 
 2. you could also clone the file
-  than command:
+  then command:
 ```console
 $ npm install
 $ npm start
